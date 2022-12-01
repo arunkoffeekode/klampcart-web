@@ -1,0 +1,161 @@
+@charset "utf-8";
+
+/* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 992px) and (max-width: 1200px) {  
+
+
+}
+
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+    .subscribe .subscribe-box .Sub {width: 100%;margin-top: 0px;}
+    .subscribe .subscribe-box .contact-btn {margin-top: 20px;}
+    .paginate-section .pagination-list {border-left: none}
+    .paginate-section .pagination-list { overflow-y: scroll;}
+    .history-section .history-title h2 {font-size: 16px;}
+    .history-section .history-title .see-all {font-size: 16px;}
+    .banner .txt{font-size: 18px!important;line-height: 26px!important;}
+    .topbar-area .register .top-cart .search{min-width: 100%;}
+    .topbar-area .register {text-align: center;margin-top: 8px;}
+    .topbar-area .logotext {text-align: center;font-size: 35px;}
+    /* .topbar-area .register ul li {margin-right: 13px;} */
+    .topbar-area .register ul li {margin-right: 14px;}
+    .topbar-area .register .top-cart .account-dropdown {right: -124px;}
+    .recommended-product .recommended-left {width: 100%;}
+    .recommended-product .recommended-right {width: 100%;}
+    .recommended-product .recommended-right .recommended-details h2 {font-size: 25px;}
+    .recommended-product .recommended-right .recommended-details {padding: 30px;}
+    .sales .sales-left-section {width: 100%;padding: 40px;}
+    .sales .sales-img {width: 100%;}
+    .sales .sales-left-section .sales-title {font-size: 40px;margin-bottom: 0px;text-align: center;}
+    .sales .sales-left-section p {text-align: center;}
+    .sales .sales-left-section .sales-btn1 {margin-top: 20px;}
+    .sales .sales-left-section .sales-btn1 .sales-btn2 {margin: 0 auto;}
+    .cart .shopping-details .cart-details .cart-rupp p {font-size: 14px;}
+    .cart .shopping-details .cart-details {margin-bottom: 15px;}
+    .delivery-address .address-info .sr-btn-wrap{text-align: left;margin-top: 15px;}
+    .delivery-address .address-info .remove-btn {text-align: left;}
+    .delivery-address .form-section .add-address {width: 100%;}
+    .login .laptop {width: 100%;}
+    .login .laptop .heading h5 {font-size: 27px;}
+    .login .laptop .heading button.sky-btn2 {width: 100%;}
+    .login .login-form .login-title {margin-top: 20px;padding: 20px;}
+    .product-item .p-details {padding: 10px;}
+    .product-item .p-details11 {padding: 10px;}
+    .product-review .review-btn-section {display: inline-block;}
+    .product-review .img-product {margin-top: 20px;}
+    .product-review .box ul li {margin-right: 30px;margin-left: 18px;}
+    .product-review .rate-title .left-title {display: inline-block;}
+
+    .product-review .rate-title .left-title .text {margin-left: 0px;}
+    .pincode .pincode-block .pincode-block-step .pin-title-section h3 {font-size: 20px;line-height: 30px;}
+    .pincode .pincode-block .pincode-block-step .pin-title-section h5 {font-size: 18px;line-height: 26px;}
+    .pincode .pincode-block .pincode-block-step {padding: 27px 0px !important;}
+    .product-details-main .pro-details .pro-title h1 {font-size: 22px;line-height: 32px;}
+    .product-details-main .pro-details .p-btn {display: block;}
+    .product-details-main .pro-details .stock .add-cart-btn {margin-right: 22px;width: 100%;}
+    .product-details-main .pro-details .stock .add-cart-btn1 {margin-right: 0px;width: 100%;}
+
+    ._boxzoom .zoom-thumb {display: inline}
+    .piclist li{margin-right: 12px;width: 60px;height: 60px;}
+   
+    .piclist li img {width: 60px;height:60px;}
+   
+    ._boxzoom ._product-images {width: 100%;}
+    .picZoomer-pic-wp {height: 250px!important;}
+    .rating-review .review-box .review-form .form-group .imageThumb{max-height: 105px;}
+    .rating-btn-section .rate-btn .rate1 {width: 100%;}
+    .rating-btn-section .rate-btn .rate{width: 100%;}
+    .rating-review .review-box .rating-details {width: 100%;border-right: none;display: block;}
+    .rating-review .review-box .reting-icon {width: 100%;padding: 10px;}
+    .rating-review .review-box .display {display: block;}
+    .rating-review .review-box .rating-details .contect {margin-left: 0px;padding: 20px 0px 0px 0px;}
+    .pay-method .cancel1 {width: 100%;}
+    .pay-method .checkout1 {width: 100%;}
+    .order .order-all .order-header ul li {margin-bottom: 20px}
+    .order .order-all .order-details .ord {display: block;}
+    .order .order-all .order-details .ord .order-alldetails {margin-top: 20px;margin-left: 0px;}
+    .order .order-all .order-right1 .review-title {text-align: left;margin-bottom: 30px;}
+    .order .order-all .order-right1 .order-btn .track-btn {width: 100%;}
+    .order .order-all .order-right1 .order-btn .track-btn1 {width: 100%;}
+    .order .top-left p {margin-left: 6px;margin-right: 0px;}
+    .tracking-title h1 {font-size: 25px;line-height: 35px;}
+    .tracking {padding: 40px 0px;}
+    .tracking .workout h1 {font-size: 26px;line-height: 37px;}
+    .profile .profile-details .my-order {display: block;}
+    .profile .profile-details .order-right {margin-top: 10px;}
+    .profile .profile-details .my-order .order-img {margin-bottom: 20px;}
+    .profile .profile-details .order-right .wishlist-btn .wl-btn{width: 100%;}
+    .profile .profile-details .order-right .remove{text-align: center;}
+    .profile .profile-details .address .address-place .addres-btn {width: 100%;}
+    .profile .profile-details .address .full-address {margin-bottom: 20px;}
+    .profile .profile-details .form-section .add-address {font-size: 15px;}
+
+
+
+
+    .product-details-main .pro-details .delivery-pay ul li {width: 45%;margin-right: 13px;}
+
+
+    .timeline {padding: 0px}
+
+
+ 
+  }
+
+@media screen and (max-width: 600px) {
+    .order .order-informationtable { border: 0; }
+    .order .order-information table caption {font-size: 1.3em;}
+    .order .order-information table thead {border: none; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px;}
+    .order .order-information table tr {display: block;  margin-bottom: .625em;border: none;}
+    .order .order-information table td {border-bottom: 1px solid #ddd; display: block; font-size:16px; text-align: right;}
+    .order .order-information table td .content-pane .rudra-info-box h4{margin-top: 15px;}
+    .order .order-information table td:last-child{border-bottom: none!important;}
+    .order .order-information table td::before {
+      /*
+      * aria-label has no advantage, it won't be read inside a table
+      content: attr(aria-label);
+      */content: attr(data-label); float: left;font-weight: bold;text-transform: uppercase;}
+    
+      .order .order-informationtable td:last-child {border-bottom: 0;}
+  }
+/*============	Media 768Px Start ============ */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {
+
+
+
+}
+
+@media (min-width: 768px) {
+
+
+
+}
+
+
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+
+
+
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {
+
+}
